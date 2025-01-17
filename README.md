@@ -6,7 +6,7 @@
 ### <div align="center">Hi I'm Jin, Let's be happy 😎</div>  
   
 
-- 🔭 I’m currently working in Seoul, Korea  
+- 🔭 I’m currently working on ❓❓ 
   
 
 - 🌱 I’m currently learning Python [SSAFY_Seoul]  
