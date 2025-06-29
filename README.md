@@ -26,6 +26,9 @@
 
 ## 👩‍💻 About me
 
+- Dongguk University (2018 ~ 2025)
+    - major : media communication
+- SSAFY_13th seoul01
 - **Devvy 스터디 팀장**
     - 스터디 허브: [Devvy-study-hub 🔗](https://github.com/Devvy-study/devvy-study-hub)
 
