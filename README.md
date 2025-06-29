@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/jinnyujinchoi/jinnyujinchoi/master/assets/jinny.gif" width="600" />
 </div>
 
+ <br />
+ 
 <div align="center">
   <!-- 상단 3개 링크 버튼 -->
   <a href="https://github.com/jinnyujinchoi" target="_blank">
