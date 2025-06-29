@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jinnyujinchoi/jinnyujinchoi/main/assets/jins_github.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/jinnyujinchoi/jinnyujinchoi/master/assets/jins_github.gif" width="400" />
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jinnyujinchoi/jinnyujinchoi/main/assets/description2.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/jinnyujinchoi/jinnyujinchoi/master/assets/description2.gif" width="400" />
 </div>
 
 <div align="center">
