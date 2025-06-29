@@ -40,8 +40,8 @@
 
 | 프로젝트 이름 (기간) | 역할 | GitHub | Notion |
 | --- | --- | --- | --- |
-| **weMatch (2025.06)** | 프론트엔드 및 디자인 | [🔗 바로가기](https://github.com/jinnyujinchoi/weMatch) | [📝 Notion](https://www.notion.so/2116b1350e348097a5d2c2df4728195e?pvs=21) |
-| **Bookii (2025.05)** | 프론트엔드 담당 | [🔗 바로가기](https://github.com/jinnyujinchoi/Bookii) | [📝 Notion](https://www.notion.so/1e44691061688046bc20d6de0da9bfa0?pvs=21) |
+| **weMatch (2025.06)** | 프론트엔드 및 디자인 | [🔗 바로가기](https://github.com/jinnyujinchoi/Bookii_pjt) | [📝 Notion](https://www.notion.so/2116b1350e348097a5d2c2df4728195e?pvs=21) |
+| **Bookii (2025.05)** | 프론트엔드 담당 | [🔗 바로가기](https://github.com/jinnyujinchoi/weMatch) | [📝 Notion](https://www.notion.so/1e44691061688046bc20d6de0da9bfa0?pvs=21) |
 
 <br/>
 
