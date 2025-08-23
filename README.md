@@ -31,8 +31,6 @@
 - Dongguk University (2018 ~ 2025)
     - Major : Department of Media Communication
 - SSAFY_13th (2025 ~ ing)  
-- **Devvy 스터디 팀장**
-    - 스터디 허브: [Devvy-study-hub 🔗](https://github.com/Devvy-study/devvy-study-hub)
 
 <br/>
 
@@ -40,6 +38,7 @@
 
 | 프로젝트 이름 (기간) | 역할 | GitHub | Notion |
 | --- | --- | --- | --- |
+| **Pookie (2025.07 ~ 2025.08)** | 프론트엔드리더 및 기획/디자인 | [🔗 바로가기](https://github.com/A604-web/POOKIE) | [📝 Notion](https://www.notion.so/Home-22cf8b7cd5bb80039f65db4777152ad5?source=copy_link) |
 | **weMatch (2025.06)** | 프론트엔드 및 디자인 | [🔗 바로가기](https://github.com/jinnyujinchoi/weMatch) | [📝 Notion](https://www.notion.so/2116b1350e348097a5d2c2df4728195e?pvs=21) |
 | **Bookii (2025.05)** | 프론트엔드 담당 | [🔗 바로가기](https://github.com/jinnyujinchoi/Bookii_pjt) | [📝 Notion](https://www.notion.so/1e44691061688046bc20d6de0da9bfa0?pvs=21) |
 
