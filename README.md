@@ -12,8 +12,8 @@
   <a href="https://www.instagram.com/devtraineejin/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
   </a>
-  <a href="https://blog.naver.com/ygg1202" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" height="32" />
+  <a href="https://velog.io/@parallel278/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height="32" />
   </a>
 
   <br />
@@ -40,7 +40,6 @@
 | --- | --- | --- | --- |
 | **Pookie (2025.07 ~ 2025.08)** | 프론트엔드리더 및 기획/디자인 | [🔗 바로가기](https://github.com/A604-web/POOKIE) | [📝 Notion](https://www.notion.so/Home-22cf8b7cd5bb80039f65db4777152ad5?source=copy_link) |
 | **weMatch (2025.06)** | 프론트엔드 및 디자인 | [🔗 바로가기](https://github.com/jinnyujinchoi/weMatch) | [📝 Notion](https://www.notion.so/2116b1350e348097a5d2c2df4728195e?pvs=21) |
-| **Bookii (2025.05)** | 프론트엔드 담당 | [🔗 바로가기](https://github.com/jinnyujinchoi/Bookii_pjt) | [📝 Notion](https://www.notion.so/1e44691061688046bc20d6de0da9bfa0?pvs=21) |
 
 <br/>
 
