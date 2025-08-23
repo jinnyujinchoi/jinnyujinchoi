@@ -9,11 +9,11 @@
   <a href="https://github.com/jinnyujinchoi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" />
   </a>
-  <a href="https://www.instagram.com/devtraineejin/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
-  </a>
   <a href="https://velog.io/@parallel278/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height="32" />
+  </a>
+  <a href="https://www.instagram.com/devtraineejin/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
   </a>
 
   <br />
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="24" />
   <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=flat-square&logo=tailwind%20css&logoColor=white" height="24" />
 </p>
 
 
@@ -69,7 +69,8 @@
 
 <h4>🌱 Studying...</h4>
 <p>
-  <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=flat-square&logo=tailwind%20css&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" height="24" />
 </p>
 
