@@ -28,9 +28,10 @@
 
 ## 👩‍💻 About me
 
+- GA4 Consultant, Golden Planet (2026.01 ~ ing)
+- Trainee, SSAFY_13th (2025.01 ~ 2025.12)
 - Dongguk University (2018 ~ 2025)
     - Major : Department of Media Communication
-- SSAFY_13th (2025 ~ ing)  
 
 <br/>
 
@@ -38,9 +39,9 @@
 
 | 프로젝트 이름 (기간) | 역할 | GitHub | Notion |
 | --- | --- | --- | --- |
-| **리딩버디 (2025.10 ~ 2025.11)** | 팀장 및 프론트엔드(기획/디자인) | [🔗 바로가기](https://github.com/jinnyujinchoi/ReadingBuddy) | [📝 Notion](https://www.notion.so/A206-Home-280732ff038081a9a27ad6ed19912c64) |
-| **YGSS (2025.09 ~ 2025.09)** | 프론트엔드 및 기획/디자인 | [🔗 바로가기](https://github.com/ParkJaeHwan-906/YGSS) | [📝 Notion](https://www.notion.so/A103-Home-25857762a3cf81d9b728d40a045eba58) |
-| **Pookie (2025.07 ~ 2025.08)** | 프론트엔드리더 및 기획/디자인 | [🔗 바로가기](https://github.com/A604-web/POOKIE) | [📝 Notion](https://www.notion.so/Home-22cf8b7cd5bb80039f65db4777152ad5?source=copy_link) |
+| **리딩버디 (2025.10 ~ 2025.11) 🏆** | 팀장 및 프론트엔드(기획/디자인) | [🔗 바로가기](https://github.com/jinnyujinchoi/ReadingBuddy) | [📝 Notion](https://www.notion.so/A206-Home-280732ff038081a9a27ad6ed19912c64) |
+| **YGSS (2025.09 ~ 2025.09) 🏆** | 프론트엔드 및 기획/디자인 | [🔗 바로가기](https://github.com/ParkJaeHwan-906/YGSS) | [📝 Notion](https://www.notion.so/A103-Home-25857762a3cf81d9b728d40a045eba58) |
+| **Pookie (2025.07 ~ 2025.08) 🏆** | 프론트엔드리더 및 기획/디자인 | [🔗 바로가기](https://github.com/A604-web/POOKIE) | [📝 Notion](https://www.notion.so/Home-22cf8b7cd5bb80039f65db4777152ad5?source=copy_link) |
 | **weMatch (2025.06)** | 프론트엔드 및 디자인 | [🔗 바로가기](https://github.com/jinnyujinchoi/weMatch) | [📝 Notion](https://www.notion.so/2116b1350e348097a5d2c2df4728195e?pvs=21) |
 
 <br/>
