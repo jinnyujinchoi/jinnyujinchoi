@@ -9,11 +9,11 @@
   <a href="https://velog.io/@parallel278/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height="32" />
   </a>
-  <a href="https://www.instagram.com/devtraineejin/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
-  </a>
   <a href="https://www.linkedin.com/in/yujin-choi-a5b550365" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+  </a>
+  <a href="https://www.instagram.com/devtraineejin/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
   </a>
 
   <br />
@@ -30,7 +30,7 @@
 
 - GA4 Consultant, Golden Planet (2026.01 ~ ing)
 - Trainee, SSAFY_13th (2025.01 ~ 2025.12)
-- Dongguk University (2018 ~ 2025)
+- Dongguk University (2018.03 ~ 2025.02)
     - Major : Department of Media Communication
 
 <br/>
@@ -55,7 +55,6 @@
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="24" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24" />
   <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=flat-square&logo=tailwind%20css&logoColor=white" height="24" />
 </p>
 
