@@ -42,7 +42,6 @@
 | **리딩버디 (2025.10 ~ 2025.11) 🏆** | 팀장 및 프론트엔드(기획/디자인) | [🔗 바로가기](https://github.com/jinnyujinchoi/ReadingBuddy) | [📝 Notion](https://www.notion.so/A206-Home-280732ff038081a9a27ad6ed19912c64) |
 | **YGSS (2025.09 ~ 2025.09) 🏆** | 프론트엔드 및 기획/디자인 | [🔗 바로가기](https://github.com/ParkJaeHwan-906/YGSS) | [📝 Notion](https://www.notion.so/A103-Home-25857762a3cf81d9b728d40a045eba58) |
 | **Pookie (2025.07 ~ 2025.08) 🏆** | 프론트엔드리더 및 기획/디자인 | [🔗 바로가기](https://github.com/A604-web/POOKIE) | [📝 Notion](https://www.notion.so/Home-22cf8b7cd5bb80039f65db4777152ad5?source=copy_link) |
-| **weMatch (2025.06)** | 프론트엔드 및 디자인 | [🔗 바로가기](https://github.com/jinnyujinchoi/weMatch) | [📝 Notion](https://www.notion.so/2116b1350e348097a5d2c2df4728195e?pvs=21) |
 
 <br/>
 
@@ -82,14 +81,14 @@
 <h3>📍GitHub Stats</h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinnyujinchoi&count_private=true&show_icons=true&theme=omni" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jinnyujinchoi&amp;count_private=true&amp;show_icons=true&amp;theme=omni" />
 </p>
 
 <h3>📍Top Langs</h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnyujinchoi&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnyujinchoi&amp;layout=compact" />
 </p>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=ff79c6&section=footer)
