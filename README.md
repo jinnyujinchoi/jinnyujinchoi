@@ -6,14 +6,14 @@
  
 <div align="center">
   <!-- 상단 3개 링크 버튼 -->
-  <a href="https://github.com/jinnyujinchoi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" />
-  </a>
   <a href="https://velog.io/@parallel278/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height="32" />
   </a>
   <a href="https://www.instagram.com/devtraineejin/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/yujin-choi-a5b550365" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>
 
   <br />
@@ -49,13 +49,13 @@
 
 <h4>💻 Language & 🧩 Framework</h4>
 <p>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="24" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="24" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" height="24" />
-  <img src="https://img.shields.io/badge/vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24" />
   <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=flat-square&logo=tailwind%20css&logoColor=white" height="24" />
 </p>
 
@@ -63,22 +63,22 @@
 <h4>🛠 ETC / Tools</h4>
 <p>
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" height="24" />
   <img src="https://img.shields.io/badge/github-%23181717.svg?style=flat-square&logo=github&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?style=flat-square&logo=adobe%20after%20effects&logoColor=black" height="24" />
-  <img src="https://img.shields.io/badge/eslint-%234B32C3.svg?style=flat-square&logo=eslint&logoColor=white" height="24" />
 </p>
 
 <h4>🌱 Studying...</h4>
 <p>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="24" />
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="24" />
 </p>
+  
 
 ---
 
-<h3>📍GitHub Stats</h3>
+<!-- <h3>📍GitHub Stats</h3>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jinnyujinchoi&amp;count_private=true&amp;show_icons=true&amp;theme=omni" />
@@ -88,7 +88,7 @@
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnyujinchoi&amp;layout=compact" />
-</p>
+</p> -->
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=ff79c6&section=footer)
