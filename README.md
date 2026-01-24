@@ -97,4 +97,4 @@
 </table>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=ff79c6&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=ff79c6&section=footer)
