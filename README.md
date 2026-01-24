@@ -77,17 +77,24 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h3>📍 GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=jinnyujinchoi&show_icons=true&theme=ambient_gradient" />
-  </div>
-
-  <div>
-    <h3>📍 Top Langs</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnyujinchoi&layout=compact" />
-  </div>
-</div>
+<table>
+  <tr>
+    <th align="center">
+      <h4>📊 GitHub Stats</h4>
+    </th>
+    <th align="center">
+      <h4>⌨️ Top Languages</h4>
+    </th>
+  </tr>
+  <tr>
+    <td style="padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=jinnyujinchoi&show_icons=true&theme=ambient_gradient" width="450" />
+    </td>
+    <td style="padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnyujinchoi&layout=compact" width="400" />
+    </td>
+  </tr>
+</table>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=ff79c6&section=footer)
