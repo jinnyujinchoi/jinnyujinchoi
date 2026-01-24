@@ -83,7 +83,7 @@
       <h4>📊 GitHub Stats</h4>
     </th>
     <th align="center">
-      <h4>⌨️ Top Languages</h4>
+      <h4>⌨️ Top Langs</h4>
     </th>
   </tr>
   <tr>
