@@ -77,17 +77,17 @@
 
 ---
 
-<!-- <h3>📍GitHub Stats</h3>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinnyujinchoi&amp;count_private=true&amp;show_icons=true&amp;theme=omni" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <h3>📍 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=jinnyujinchoi&show_icons=true&theme=ambient_gradient" />
+  </div>
 
-<h3>📍Top Langs</h3>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnyujinchoi&amp;layout=compact" />
-</p> -->
+  <div>
+    <h3>📍 Top Langs</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnyujinchoi&layout=compact" />
+  </div>
+</div>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=250&color=ff79c6&section=footer)
