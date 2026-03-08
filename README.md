@@ -88,10 +88,10 @@
   </tr>
   <tr>
     <td style="padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=jinnyujinchoi&show_icons=true&theme=ambient_gradient" width="450" />
+      <img src="https://github-readme-stats-gamma-one-18.vercel.app/api?username=jinnyujinchoi&show_icons=true&theme=ambient_gradient" width="450" />
     </td>
     <td style="padding-left: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinnyujinchoi&layout=compact" width="400" />
+      <img src="https://github-readme-stats-gamma-one-18.vercel.app/api/top-langs/?username=jinnyujinchoi&layout=compact" width="400" />
     </td>
   </tr>
 </table>
