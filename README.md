@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jinnyujinchoi/jinnyujinchoi/master/assets/jinny3.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/jinnyujinchoi/jinnyujinchoi/master/assets/jinny3.gif" width="100%" height="400"/>
 </div>
 
  <br />
